@@ -1,0 +1,1 @@
+export {Feet} from './Feet.jsx';
