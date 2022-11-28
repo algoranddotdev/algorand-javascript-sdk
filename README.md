@@ -1,4 +1,4 @@
-# Algorand Developer
+# Algorand JavaScript SDK
 
 The goal of this repository is to explore possible optimizations of integrating Algorand on the web client side. The main effort from the start was to create an optimized Algorand JavaScript SDK such that it's light, intuitive, and robust. To reduce scope, I made the decision to focus exclusively on the mobile web experience, and as such with Pera Algo Wallet as the sole compatible wallet.
 
